@@ -1,6 +1,29 @@
-## Olá, meu nome é Eduardo!
+## 👋 Olá, meu nome é Eduardo!
 
-### ⚙️ GitHub Analytics
+🎓 Estudante de Engenharia da Computação na UNIFEI, com 22 anos.  
+💻 Técnico em Informática pela ETEC.  
+🔧 Desenvolvedor Full Stack com paixão e especialização em **banco de dados**.  
+🌱 Sempre em busca de novos desafios e aprendizados.
+
+---
+
+### 🌐 Portfólio
+
+Confira meus projetos e experiências no meu portfólio:  
+👉 [eduelvs.vercel.app](https://eduelvs.vercel.app)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** PHP, JavaScript, Python, C, Java
+- **Frameworks:** React, Node.js
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Outros:** Git, GitHub, UML, Modelagem de Dados
+
+---
+
+### 📈 GitHub Analytics
 
 <table>
   <tr>
@@ -36,7 +59,7 @@
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="Repositório de Troféus"
   >
     <img
       width="800"
@@ -47,9 +70,7 @@
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+### 📍 Contador de Visitantes no Perfil
 
 <p align="center">
   <img
@@ -57,3 +78,27 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+---
+
+### 📚 Experiências Acadêmicas e Projetos
+
+- Participação no [PETTEC UNIFEI](https://www.instagram.com/pettec_unifei/): Programa de Educação Tutorial em Engenharia da Computação.
+- Participação no [The Wren Global](https://www.instagram.com/thewrenglobal/): Iniciativa global de desenvolvimento de habilidades.
+- Desenvolvimento de projetos como:
+  - [Simulador de Criação de Cabras](https://github.com/Eduelvs/Simulador-CC)
+  - [Desenvolvimento de um Compilador](https://github.com/Eduelvs/Desenvolvimento-de-um-Compilador)
+  - [Projeto POO](https://github.com/Eduelvs/Projeto-POO)
+  - [Projeto com SpringBot](https://github.com/Eduelvs/Projeto-com-SpringBot)
+
+---
+
+### 📫 Contato
+
+- 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/eduelvs](https://www.linkedin.com/in/eduelvs)
+- 🌐 Portfólio: [eduelvs.vercel.app](https://eduelvs.vercel.app)
+
+---
+
+*Este README foi gerado para refletir minhas experiências e habilidades atuais. Estou sempre aberto a colaborações e novas oportunidades!*
