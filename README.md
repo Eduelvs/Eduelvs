@@ -95,8 +95,8 @@ Confira meus projetos e experiências no meu portfólio:
 
 ### 📫 Contato
 
-- 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/eduelvs](https://www.linkedin.com/in/eduelvs)
+- 📧 Email: [seu-email@example.com](mailto:eduardo15022003@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/eduelvs](linkedin.com/in/eduardo-alves-edualves/)
 - 🌐 Portfólio: [eduelvs.vercel.app](https://eduelvs.vercel.app)
 
 ---
