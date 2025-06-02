@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Eduardo!
+## 👋 Olá, meu nome é Eduardo Alves Carvalho!
 
 🎓 Estudante de Engenharia da Computação na UNIFEI, com 22 anos.  
 💻 Técnico em Informática pela ETEC.  
