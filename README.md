@@ -4,6 +4,9 @@
 💻 Técnico em Informática pela ETEC.  
 🔧 Desenvolvedor Full Stack com paixão e especialização em **banco de dados**.  
 🌱 Sempre em busca de novos desafios e aprendizados.
+<div>
+  <a href='https://linkedin.com/in/eduardo-alves-edualves/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+</div>
 
 ---
 
