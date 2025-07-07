@@ -41,17 +41,17 @@ Confira meus projetos e experiências no meu portfólio:
   <img
     src="https://github-readme-stats.vercel.app/api?username=eduelvs&theme=dark&hide_border=true&include_all_commits=true"
     alt="Github Stats"
-    style="width: 300px;"
+    style="width: 250px;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduelvs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Langs"
-    style="width: 300px;"
+    style="width: 250px;"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=eduelvs&theme=dark&hide_border=true"
     alt="GitHub Streak"
-    style="width: 300px;"
+    style="width: 250px;"
   />
 </div>
 
