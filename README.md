@@ -29,8 +29,8 @@ Confira meus projetos e experiências no meu portfólio:
 ### 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** PHP, JavaScript, Python, C, Java
-- **Frameworks:** React, Node.js
-- **Banco de Dados:** MySQL, PostgreSQL
+- **Frameworks:** React, Node.js, Laravel, Vue, Vite
+- **Banco de Dados:** MySQL, PostgreSQL, SQLite3
 - **Outros:** Git, GitHub, UML, Modelagem de Dados
 
 ---
