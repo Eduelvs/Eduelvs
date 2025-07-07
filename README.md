@@ -1,21 +1,30 @@
-## 👋 Olá, meu nome é Eduardo Alves Carvalho!
+<h2> 👋 Olá, meu nome é Eduardo Alves Carvalho! </h2>
 
-🎓 Estudante de Engenharia da Computação na UNIFEI, com 22 anos.  
-💻 Técnico em Informática pela ETEC.  
-🔧 Desenvolvedor Full Stack com paixão e especialização em **banco de dados**.  
-🌱 Sempre em busca de novos desafios e aprendizados.
-<div>
-  <a href='https://linkedin.com/in/eduardo-alves-edualves/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
-</div>
+<p align="left">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B309FF&width=435&lines=print(%22Hello%2C+world!%22)" alt="Typing SVG" />
+</p>
 
----
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p>
+  🎓 Estudante de Engenharia da Computação na UNIFEI, com 22 anos.<br>
+  💻 Técnico em Informática pela ETEC.<br>
+  🔧 Desenvolvedor Full Stack com paixão e especialização em banco de dados.<br>
+  🌱 Sempre em busca de novos desafios e aprendizados.<br>
+</p>
+
+  <div>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=eduardo15022003@gmail.com" alt="Email" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" style="height: 25px;" /></a>
+    <a href="https://linkedin.com/in/eduardo-alves-edualves/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" style="height: 25px;" /></a>
+  </div>
+</p>
 
 ### 🌐 Portfólio
 
 Confira meus projetos e experiências no meu portfólio:  
 👉 [eduelvs.vercel.app](https://eduelvs.vercel.app)
-
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -28,32 +37,24 @@ Confira meus projetos e experiências no meu portfólio:
 
 ### 📈 GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=eduelvs&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduelvs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=eduelvs&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eduelvs&theme=dark&hide_border=true&include_all_commits=true"
+    alt="Github Stats"
+    style="width: 300px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduelvs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Langs"
+    style="width: 300px;"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=eduelvs&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    style="width: 300px;"
+  />
+</div>
+
 
 ---
 
@@ -104,4 +105,4 @@ Confira meus projetos e experiências no meu portfólio:
 
 ---
 
-*Este README foi gerado para refletir minhas experiências e habilidades atuais. Estou sempre aberto a colaborações e novas oportunidades!*
+<p align="center"><em>"A mente que se abre a uma nova ideia jamais volta ao seu tamanho original." – Albert Einstein</em></p>
